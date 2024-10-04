@@ -1,0 +1,34 @@
+{
+    "usuarios": [
+      {
+        "cedula": "123456789",
+        "nombre": "Juan Pérez",
+        "email": "juan@ejemplo.com",
+        "telefono": "1234567890",
+        "direccion": "Calle 1 #123",
+        "fechaNacimiento": "1990-01-01",
+        "genero": "masculino",
+        "nivelEducativo": "secundaria"
+      },
+      {
+        "cedula": "987654321",
+        "nombre": "María García",
+        "email": "maria@ejemplo.com",
+        "telefono": "0987654321",
+        "direccion": "Avenida 2 #456",
+        "fechaNacimiento": "1992-05-15",
+        "genero": "femenino",
+        "nivelEducativo": "primaria"
+      },
+      {
+        "cedula": "456789123",
+        "nombre": "Carlos López",
+        "email": "carlos@ejemplo.com",
+        "telefono": "5555555555",
+        "direccion": "Carrera 3 #789",
+        "fechaNacimiento": "1988-12-31",
+        "genero": "masculino",
+        "nivelEducativo": "secundaria"
+      }
+    ]
+  }
